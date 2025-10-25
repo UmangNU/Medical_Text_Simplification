@@ -241,11 +241,10 @@ If you use this work, please cite:
 This project is for educational purposes (Prompt Engineering Course Assignment).
 
 ## 👤 Author
-
-**[Your Name]**
+ Umang Mistry
 - Course: Prompt Engineering
-- Institution: [Your University]
-- Date: October 2025
+- Institution: Northeastern University
+
 
 ## 🙏 Acknowledgments
 
@@ -256,8 +255,8 @@ This project is for educational purposes (Prompt Engineering Course Assignment).
 
 ## 📞 Contact
 
-For questions or collaboration: [Your Email]
+For questions or collaboration: mistr.um@northeastern.edu
 
 ---
 
-**Last Updated:** October 24, 2025
+
